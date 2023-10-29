@@ -7,8 +7,7 @@ This Software is a cookbook that stores recipes in it. It has a simple GUI that 
 The purpose of this software is to provide a user a simple interface that allows them to store their recipes. This can also be useful for storing recipes that you find online and allow a simple place to keep them.
 
 
-[My Java CookBook Video]([http://youtube.link.goes.here](https://youtu.be/uKX5n3-v0sk))
-
+[My Java CookBook Video](http://youtube.link.goes.here)
 # Development Environment
 
 IntelliJ IDEA Community
